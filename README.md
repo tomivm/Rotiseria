@@ -7,5 +7,5 @@
 <ol>
   <li>Clona este repositorio con git clone.</li>
   <li>Escribi un comentario en el archivo index.js. Este se encuentra en la carpeta /src, desde tu editor de texto.</li>
-  <li>Hace u git push a la rama Master (la unica que existe actualmente).</li>
+  <li>Hace u git push a la rama *main (la unica que existe actualmente).</li>
 <ol>  
