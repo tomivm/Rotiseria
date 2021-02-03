@@ -3,6 +3,9 @@
  En este repo colabora:
 -@patagonikus
 -@tomivm 
--
+-@joseracosky
 -
 */
+
+/*hola, ahora se suma al proyecto:
+-@joseracosky*/
