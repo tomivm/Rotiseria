@@ -7,5 +7,3 @@
 -
 */
 
-/*hola, ahora se suma al proyecto:
--@joseracosky*/
